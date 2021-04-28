@@ -33,7 +33,7 @@ namespace MoansoTarea2
             var apellido = textBoxApellido.Text;
             if( nombre != "" && apellido != "")
             {
-                MessageBox.Show("Se registró un usuario");
+                MessageBox.Show("Se registró una persona");
                 listViewDatos.Items.Add(nombre);
                 listViewDatos.Items.Add(apellido);
             } else
