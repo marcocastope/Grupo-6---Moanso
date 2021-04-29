@@ -51,3 +51,10 @@ C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA
 C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.dll
 C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.pdb
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\bin\Debug\netcoreapp3.1\MoansoTarea2.exe
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\bin\Debug\netcoreapp3.1\MoansoTarea2.deps.json
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\bin\Debug\netcoreapp3.1\MoansoTarea2.runtimeconfig.json
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\bin\Debug\netcoreapp3.1\MoansoTarea2.runtimeconfig.dev.json
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\bin\Debug\netcoreapp3.1\MoansoTarea2.dll
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\bin\Debug\netcoreapp3.1\MoansoTarea2.pdb
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.genruntimeconfig.cache

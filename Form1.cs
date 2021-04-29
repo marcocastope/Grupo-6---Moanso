@@ -24,6 +24,8 @@ namespace MoansoTarea2
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            btnRegistrar.BackColor = Color.White;
+            btnRegistrar.ForeColor = Color.DarkCyan;
             cmbSexo.Items.Add("Masculino");
             cmbSexo.Items.Add("Femenino");
         }
@@ -31,7 +33,6 @@ namespace MoansoTarea2
         private void btnRegistrar_Click(object sender, EventArgs e) {
             String sexo;
             sexo = cmbSexo.Text;
-
             var nombre = textBoxNombre.Text;
             var apellido = textBoxApellido.Text;
             var edad = textBoxEdad.Text; 
