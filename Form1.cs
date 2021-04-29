@@ -24,20 +24,32 @@ namespace MoansoTarea2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            labelNombre.ForeColor = Color.Red;
+            cmbSexo.Items.Add("Masculino");
+            cmbSexo.Items.Add("Femenino");
         }
 
-        private void btnRegistrar_Click(object sender, EventArgs e)
-        {
+        private void btnRegistrar_Click(object sender, EventArgs e) {
+            String sexo;
+            sexo = cmbSexo.Text;
+
             var nombre = textBoxNombre.Text;
             var apellido = textBoxApellido.Text;
             var edad = textBoxEdad.Text;
+<<<<<<< HEAD
+=======
+            
+
+>>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
             if( nombre != "" && apellido != "")
             {
                 MessageBox.Show("Se registró una persona");
                 listViewDatos.Items.Add(nombre);
                 listViewDatos.Items.Add(apellido);
                 listViewDatos.Items.Add(edad);
+<<<<<<< HEAD
+=======
+                listViewDatos.Items.Add(sexo);
+>>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
             } else
             {
                 MessageBox.Show("Todos los campos son requeridos");
@@ -48,5 +60,23 @@ namespace MoansoTarea2
         {
 
         }
+<<<<<<< HEAD
+=======
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listViewDatos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+        }
+>>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
     }
 }
