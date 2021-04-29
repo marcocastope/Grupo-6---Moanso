@@ -43,3 +43,11 @@ C:\Users\Jhojan\source\repos\marcocastope\Grupo-6---Moanso\obj\Debug\netcoreapp3
 C:\Users\Jhojan\source\repos\marcocastope\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.dll
 C:\Users\Jhojan\source\repos\marcocastope\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.pdb
 C:\Users\Jhojan\source\repos\marcocastope\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.genruntimeconfig.cache
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.Form1.resources
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.AssemblyInfo.cs
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.dll
+C:\Users\HP\Desktop\UPN\CICLOV\MODELAMIENTO Y ANALISIS DE SOFTWARE\SEMANA6\TAREA\Grupo-6---Moanso\obj\Debug\netcoreapp3.1\MoansoTarea2.pdb

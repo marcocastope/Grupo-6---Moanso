@@ -232,12 +232,10 @@ namespace MoansoTarea2
         private System.Windows.Forms.Label labelApellido;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBoxEdad;
-<<<<<<< HEAD
-=======
+
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblSexo;
         private System.Windows.Forms.ComboBox cmbSexo;
->>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
     }
 }
 

@@ -19,7 +19,7 @@ namespace MoansoTarea2
 
         private void label2_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -34,22 +34,17 @@ namespace MoansoTarea2
 
             var nombre = textBoxNombre.Text;
             var apellido = textBoxApellido.Text;
-            var edad = textBoxEdad.Text;
-<<<<<<< HEAD
-=======
-            
+            var edad = textBoxEdad.Text; 
 
->>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
             if( nombre != "" && apellido != "")
             {
                 MessageBox.Show("Se registró una persona");
                 listViewDatos.Items.Add(nombre);
                 listViewDatos.Items.Add(apellido);
                 listViewDatos.Items.Add(edad);
-<<<<<<< HEAD
-=======
+
                 listViewDatos.Items.Add(sexo);
->>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
+
             } else
             {
                 MessageBox.Show("Todos los campos son requeridos");
@@ -60,8 +55,7 @@ namespace MoansoTarea2
         {
 
         }
-<<<<<<< HEAD
-=======
+
 
         private void progressBar1_Click(object sender, EventArgs e)
         {
@@ -77,6 +71,5 @@ namespace MoansoTarea2
         {
            
         }
->>>>>>> e3456d56e049657b72eb645fb04bc609cc83d1f5
     }
 }
