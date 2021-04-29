@@ -24,7 +24,8 @@ namespace MoansoTarea2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            cmbSexo.Items.Add("Masculino");
+            cmbSexo.Items.Add("Femenino");
         }
 
         private void btnRegistrar_Click(object sender, EventArgs e) {

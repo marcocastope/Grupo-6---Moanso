@@ -138,9 +138,6 @@ namespace MoansoTarea2
             // cmbSexo
             // 
             this.cmbSexo.FormattingEnabled = true;
-            this.cmbSexo.Items.AddRange(new object[] {
-            "Masculino",
-            "Femenino"});
             this.cmbSexo.Location = new System.Drawing.Point(98, 209);
             this.cmbSexo.Name = "cmbSexo";
             this.cmbSexo.Size = new System.Drawing.Size(121, 23);
