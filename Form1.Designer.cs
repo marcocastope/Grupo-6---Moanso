@@ -36,6 +36,8 @@ namespace MoansoTarea2
             this.labelNombre = new System.Windows.Forms.Label();
             this.textBoxApellido = new System.Windows.Forms.TextBox();
             this.labelApellido = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBoxEdad = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -50,14 +52,14 @@ namespace MoansoTarea2
             // 
             // textBoxNombre
             // 
-            this.textBoxNombre.Location = new System.Drawing.Point(152, 115);
+            this.textBoxNombre.Location = new System.Drawing.Point(152, 107);
             this.textBoxNombre.Name = "textBoxNombre";
             this.textBoxNombre.Size = new System.Drawing.Size(162, 23);
             this.textBoxNombre.TabIndex = 1;
             // 
             // btnRegistrar
             // 
-            this.btnRegistrar.Location = new System.Drawing.Point(152, 217);
+            this.btnRegistrar.Location = new System.Drawing.Point(151, 254);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(162, 41);
             this.btnRegistrar.TabIndex = 2;
@@ -68,7 +70,7 @@ namespace MoansoTarea2
             // listViewDatos
             // 
             this.listViewDatos.HideSelection = false;
-            this.listViewDatos.Location = new System.Drawing.Point(152, 300);
+            this.listViewDatos.Location = new System.Drawing.Point(152, 322);
             this.listViewDatos.Name = "listViewDatos";
             this.listViewDatos.Size = new System.Drawing.Size(566, 97);
             this.listViewDatos.TabIndex = 3;
@@ -77,7 +79,7 @@ namespace MoansoTarea2
             // labelNombre
             // 
             this.labelNombre.AutoSize = true;
-            this.labelNombre.Location = new System.Drawing.Point(152, 97);
+            this.labelNombre.Location = new System.Drawing.Point(152, 83);
             this.labelNombre.Name = "labelNombre";
             this.labelNombre.Size = new System.Drawing.Size(51, 15);
             this.labelNombre.TabIndex = 4;
@@ -86,7 +88,7 @@ namespace MoansoTarea2
             // 
             // textBoxApellido
             // 
-            this.textBoxApellido.Location = new System.Drawing.Point(152, 170);
+            this.textBoxApellido.Location = new System.Drawing.Point(152, 163);
             this.textBoxApellido.Name = "textBoxApellido";
             this.textBoxApellido.Size = new System.Drawing.Size(162, 23);
             this.textBoxApellido.TabIndex = 1;
@@ -94,18 +96,37 @@ namespace MoansoTarea2
             // labelApellido
             // 
             this.labelApellido.AutoSize = true;
-            this.labelApellido.Location = new System.Drawing.Point(152, 152);
+            this.labelApellido.Location = new System.Drawing.Point(152, 144);
             this.labelApellido.Name = "labelApellido";
             this.labelApellido.Size = new System.Drawing.Size(51, 15);
             this.labelApellido.TabIndex = 4;
             this.labelApellido.Text = "Apellido";
             this.labelApellido.Click += new System.EventHandler(this.label2_Click);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(152, 198);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(33, 15);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Edad";
+            this.label2.Click += new System.EventHandler(this.label2_Click_1);
+            // 
+            // textBoxEdad
+            // 
+            this.textBoxEdad.Location = new System.Drawing.Point(152, 213);
+            this.textBoxEdad.Name = "textBoxEdad";
+            this.textBoxEdad.Size = new System.Drawing.Size(162, 23);
+            this.textBoxEdad.TabIndex = 6;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textBoxEdad);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.labelApellido);
             this.Controls.Add(this.labelNombre);
             this.Controls.Add(this.listViewDatos);
@@ -130,6 +151,8 @@ namespace MoansoTarea2
         private System.Windows.Forms.Label labelNombre;
         private System.Windows.Forms.TextBox textBoxApellido;
         private System.Windows.Forms.Label labelApellido;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textBoxEdad;
     }
 }
 

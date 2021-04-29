@@ -31,15 +31,22 @@ namespace MoansoTarea2
         {
             var nombre = textBoxNombre.Text;
             var apellido = textBoxApellido.Text;
+            var edad = textBoxEdad.Text;
             if( nombre != "" && apellido != "")
             {
                 MessageBox.Show("Se registró una persona");
                 listViewDatos.Items.Add(nombre);
                 listViewDatos.Items.Add(apellido);
+                listViewDatos.Items.Add(edad);
             } else
             {
                 MessageBox.Show("Todos los campos son requeridos");
             }
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }
