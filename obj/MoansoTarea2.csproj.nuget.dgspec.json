@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj": {}
+    "C:\\Users\\Jhojan\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj": {
+    "C:\\Users\\Jhojan\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj",
+        "projectUniqueName": "C:\\Users\\Jhojan\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj",
         "projectName": "MoansoTarea2",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\marcocastope\\Grupo-6---Moanso\\obj\\",
+        "projectPath": "C:\\Users\\Jhojan\\source\\repos\\marcocastope\\Grupo-6---Moanso\\MoansoTarea2.csproj",
+        "packagesPath": "C:\\Users\\Jhojan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jhojan\\source\\repos\\marcocastope\\Grupo-6---Moanso\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Jhojan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
